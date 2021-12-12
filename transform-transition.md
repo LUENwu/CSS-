@@ -4,8 +4,9 @@
 *  位移 translate
 *  缩放 scale
 *  旋转 rotate
-*  倾斜 skew
-注意: 一般都需要搭配transition(过渡)使用  
+*  倾斜 skew  
+  
+>注意: 一般都需要搭配transition(过渡)使用  
      inline元素不支持transform,需转变为block.
 1. translate
 * translateX(length+px(长度) - percentage(百分比))
