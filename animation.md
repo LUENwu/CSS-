@@ -48,15 +48,11 @@ to
 * 是否暂停:running (默认为正常播放) | paused (动画暂停)
 
 
-
-
 ## 简写属性
 CSS animation 
 
-```
-属性是 
-animation-name，animation-duration, animation-timing-function，animation-delay，animation-iteration-count，animation-direction，animation-fill-mode 和 animation-play-state 属性的一个简写属性形式。
-```
+>animation-name，animation-duration, animation-timing-function，animation-delay，animation-iteration-count，animation-direction，animation-fill-mode 和 animation-play-state 属性的一个简写属性形式。
+
 ![图例](image/animation属性解释.png)
 JS中事件绑定
 ```
